@@ -1,0 +1,30 @@
+{
+  "name": "body-builder-ipsum",
+  "version": "1.0.0",
+  "description": "Body Builder Ipsum, BIRRRL.",
+  "author": "Alexandre Davi Zanelatto <alexandre.zanelatto@gmail.com> (https://github.com/alexandredavi)",
+  "license": "MIT",
+  "main": "./lib/gerador",
+  "dependencies": {
+    "optimist": "~0.3.5"
+  },
+  "bin": {
+    "lorem-ipsum": "bin/body-builder-ipsum"
+  },
+  "scripts": {
+    "test": "nodeunit test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/knicklabs/node-lorem-ipsum.git"
+  },
+  "keywords": [
+    "lorem",
+    "ipsum",
+    "body",
+    "builder"
+  ],
+  "engine": {
+    "node": ">=0.4"
+  }
+}
