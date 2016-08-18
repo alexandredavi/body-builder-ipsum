@@ -1,10 +1,10 @@
-var dicionario = {
+﻿var dicionario = {
   frases: [
     'Aqui é Body Builder Ipsum PORRA!',
     'É esse que a gente quer, é ele que nóis vamo buscar.',
     'Não vai dá não.',
     'BIIRRRRRRRRLL!!!!',
-    'AHHHHHHHHHHHHHHHHHHHHHH..., porra!',
+    'AHHHHHHHHHHHHHHHHHHHHHH...., porra!',
     'Sabe o que é isso daí? Trapézio descendente é o nome disso aí.',
     'Sai filho da puta!',
     'Eu quero esse 13 daqui a pouquinho aí.',
